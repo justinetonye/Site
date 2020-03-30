@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="fr">
+   	<head>
+		<meta charset="utf-8">
+		<title>CUISINE </title>
+	</head>
+	<body>
+		<header>
+		<img src="../images/banniere.jpg" alt="image_repas">
+		<h1> La Bonne Cuisine camerounaise </h1>
+		
+		
+		<nav>
+			<ul>
+				<li><a href="/home/jprudence/Bureau/Site/accueil.html">Accueil</a></li>
+				<li><a href="/home/jprudence/Bureau/Site/pages/page1" target="_blank" > Nos plats </a></li>
+				<li><a href="/home/jprudence/Bureau/Site/pages/page2" target="_blank" > plats Phares </a></li>
+				<li><a href="/home/jprudence/Bureau/Site/pages/page3" target="_blank" > Contacts </a></li>
+			</ul>
+		</nav>
+		
+		</header>
+		
+		<p>Nous repondons au numero:693679326 ou vous pouvez nous joindre sur notre adresse mail suivante: justinetonye@gmail.com </P>
+		
+		<footer>
+			<p>Copyright Cameroon Foods , 2020 </p>
+		  
+		  </footer>
+	</body>
+</html>
+	    
+
+
