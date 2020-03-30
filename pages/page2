@@ -13,10 +13,10 @@
 		
 		<nav>
 			<ul>
-				<li><a href="/home/jprudence/Bureau/Site/accueil.html">Accueil</a></li>
-				<li><a href="/home/jprudence/Bureau/Site/pages/page1" target="_blank" > Nos plats </a></li>
-				<li><a href="/home/jprudence/Bureau/Site/pages/page2" target="_blank" > plats Phares </a></li>
-				<li><a href="/home/jprudence/Bureau/Site/pages/page3" target="_blank" > Contacts </a></li>
+				<li><a href="../accueil.html">Accueil</a></li>
+				<li><a href="page1" target="_blank" > Nos plats </a></li>
+				<li><a href="page2" target="_blank" > plats Phares </a></li>
+				<li><a href="page3" target="_blank" > Contacts </a></li>
 			</ul>
 		</nav>
 		
@@ -31,7 +31,7 @@
 			<p>Copyright Cameroon Foods , 2020 </p>
 		  <nav>
 	     <ul>
-	         <li><a href="/home/jprudence/Bureau/site/pages/page3" target="_blank">nous contacter</a></li>
+	         <li><a href="page3" target="_blank">nous contacter</a></li>
 	     </ul>
           </nav>
 		  </footer>
